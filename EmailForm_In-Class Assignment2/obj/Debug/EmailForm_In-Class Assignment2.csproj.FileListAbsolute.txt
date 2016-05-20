@@ -1,0 +1,9 @@
+D:\Study\Rapid Apllication Development(Gordon Ma)\Week2\In-class Assignment2\EmailForm_In-Class Assignment2\EmailForm_In-Class Assignment2\bin\Debug\EmailForm_In-Class Assignment2.exe.config
+D:\Study\Rapid Apllication Development(Gordon Ma)\Week2\In-class Assignment2\EmailForm_In-Class Assignment2\EmailForm_In-Class Assignment2\bin\Debug\EmailForm_In-Class Assignment2.exe
+D:\Study\Rapid Apllication Development(Gordon Ma)\Week2\In-class Assignment2\EmailForm_In-Class Assignment2\EmailForm_In-Class Assignment2\bin\Debug\EmailForm_In-Class Assignment2.pdb
+D:\Study\Rapid Apllication Development(Gordon Ma)\Week2\In-class Assignment2\EmailForm_In-Class Assignment2\EmailForm_In-Class Assignment2\obj\Debug\EmailForm_In-Class Assignment2.csprojResolveAssemblyReference.cache
+D:\Study\Rapid Apllication Development(Gordon Ma)\Week2\In-class Assignment2\EmailForm_In-Class Assignment2\EmailForm_In-Class Assignment2\obj\Debug\EmailForm_In_Class_Assignment2.sendEmailForm.resources
+D:\Study\Rapid Apllication Development(Gordon Ma)\Week2\In-class Assignment2\EmailForm_In-Class Assignment2\EmailForm_In-Class Assignment2\obj\Debug\EmailForm_In_Class_Assignment2.Properties.Resources.resources
+D:\Study\Rapid Apllication Development(Gordon Ma)\Week2\In-class Assignment2\EmailForm_In-Class Assignment2\EmailForm_In-Class Assignment2\obj\Debug\EmailForm_In-Class Assignment2.csproj.GenerateResource.Cache
+D:\Study\Rapid Apllication Development(Gordon Ma)\Week2\In-class Assignment2\EmailForm_In-Class Assignment2\EmailForm_In-Class Assignment2\obj\Debug\EmailForm_In-Class Assignment2.exe
+D:\Study\Rapid Apllication Development(Gordon Ma)\Week2\In-class Assignment2\EmailForm_In-Class Assignment2\EmailForm_In-Class Assignment2\obj\Debug\EmailForm_In-Class Assignment2.pdb
