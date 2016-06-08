@@ -7,3 +7,6 @@ D:\Study\Rapid Apllication Development(Gordon Ma)\Week2\In-class Assignment2\Ema
 D:\Study\Rapid Apllication Development(Gordon Ma)\Week2\In-class Assignment2\EmailForm_In-Class Assignment2\EmailForm_In-Class Assignment2\obj\Debug\EmailForm_In-Class Assignment2.csproj.GenerateResource.Cache
 D:\Study\Rapid Apllication Development(Gordon Ma)\Week2\In-class Assignment2\EmailForm_In-Class Assignment2\EmailForm_In-Class Assignment2\obj\Debug\EmailForm_In-Class Assignment2.exe
 D:\Study\Rapid Apllication Development(Gordon Ma)\Week2\In-class Assignment2\EmailForm_In-Class Assignment2\EmailForm_In-Class Assignment2\obj\Debug\EmailForm_In-Class Assignment2.pdb
+D:\Study\Semester-3\Rapid Apllication Development(Gordon Ma)\Week2\In-class Assignment2\EmailForm_In-Class Assignment2\EmailForm_In-Class Assignment2\bin\Debug\EmailForm_In-Class Assignment2.exe.config
+D:\Study\Semester-3\Rapid Apllication Development(Gordon Ma)\Week2\In-class Assignment2\EmailForm_In-Class Assignment2\EmailForm_In-Class Assignment2\obj\Debug\EmailForm_In-Class Assignment2.exe
+D:\Study\Semester-3\Rapid Apllication Development(Gordon Ma)\Week2\In-class Assignment2\EmailForm_In-Class Assignment2\EmailForm_In-Class Assignment2\obj\Debug\EmailForm_In-Class Assignment2.pdb

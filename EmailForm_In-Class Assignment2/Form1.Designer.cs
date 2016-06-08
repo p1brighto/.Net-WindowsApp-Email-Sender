@@ -135,7 +135,6 @@
             // 
             // toTextBox
             // 
-            this.toTextBox.Enabled = false;
             this.toTextBox.Location = new System.Drawing.Point(94, 71);
             this.toTextBox.Name = "toTextBox";
             this.toTextBox.Size = new System.Drawing.Size(142, 20);
